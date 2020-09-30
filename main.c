@@ -1,3 +1,4 @@
+//this code is being modified by Taukir Khatri
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -25,7 +26,7 @@ test(unsigned char *encode, unsigned int encodelen,
 	free(encode_out);
 	free(decode_out);
 }
-
+//...doing rightly...
 int
 main(void)
 {
